@@ -6,7 +6,7 @@
 |-----------------|---|
 | Student Names:  | Asma Hashmi  |
 |                 | Hasan Mahtab  | 
-|                 | Hesham Elkalioub   |
+|                 | Hesham Elkaliouby   |
 |                 | Dagvadorj (Tom) Altankhuyag  |
 
 **Table of Contents**
